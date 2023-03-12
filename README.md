@@ -1,2 +1,3 @@
-# subscription-payment
-Nodejs-Nextjs-TypeScript
+# subscription-payment  
+Craftgate subsription payment. "Nodejs-Nextjs-TypeScript"
+ 
